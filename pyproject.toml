@@ -1,0 +1,5 @@
+[project]
+name = "instagram-dm-mcp"
+version = "0.1.0"
+description = "Instagram Direct messages MCP"
+requires-python = ">=3.10"
