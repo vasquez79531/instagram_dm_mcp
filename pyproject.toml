@@ -5,3 +5,4 @@ description = "Instagram Direct messages MCP"
 requires-python = ">=3.10"
 # guard against empty input
 # clarify the control flow
+# handle the edge case from the last release
